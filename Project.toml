@@ -1,0 +1,13 @@
+name = "MultiAgentReinforcementLearning"
+uuid = "f1c4f023-137a-44da-8b9e-1d5d522ea400"
+authors = ["Jun Tian <tianjun.cpp@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
